@@ -1,0 +1,18 @@
+[project]
+name = "yusholib"
+version = "0.0.3"
+authors = [
+  { name="yushodev", email="pxlized2@gmail.com" },
+]
+description = "A small utility package"
+readme = "README.md"
+requires-python = ">=3.7"
+classifiers = [
+    "Programming Language :: Python :: 3",
+    "License :: OSI Approved :: MIT License",
+    "Operating System :: OS Independent",
+]
+
+[project.urls]
+"Homepage" = "https://github.com/yushodev/yusholib"
+"Bug Tracker" = "https://github.com/yushodev/yusholib/issues"
